@@ -1,6 +1,6 @@
-# Dhruva Shaw wesite "dhruvacube.github.io"
+# Dhruva Shaw website "dhruvacube.github.io"
 
-![Dhruva Shaw Banner.](https://imgur.com/NvAFtsp.jpg)
+![Dhruva Shaw Banner.](https://dhruvacube.githb.io/images/Banner.jpg)
 
 ## Description
 
