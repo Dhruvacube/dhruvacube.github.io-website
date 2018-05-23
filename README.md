@@ -1,6 +1,6 @@
-# Unity Playground
+# Dhruva Shaw wesite "dhruvacube.github.io"
 
-![playground.png](https://imgur.com/NvAFtsp.jpg)
+![Dhruva Shaw Banner.](https://imgur.com/NvAFtsp.jpg)
 
 ## Description
 
