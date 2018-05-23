@@ -1,4 +1,4 @@
-# Dhruva Shaw website "https://dhruvacube.github.io/images/Banner.jpg"
+# Dhruva Shaw website "https://dhruvacube.github.io"
 
 ![Dhruva Shaw Banner.](https://dhruvacube.github.io/images/Banner.jpg)
 
