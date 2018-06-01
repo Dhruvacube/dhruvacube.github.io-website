@@ -13,7 +13,6 @@ window.onscroll = function() {
   }
   prevScrollpos = currentScrollPos;
 }
-*//*Not required but keeping in handy. */
 
 
 // User Top Scroll Button
@@ -34,6 +33,10 @@ function topFunction() {
     document.documentElement.scrollTop = 0; // For Chrome, Firefox, IE and Opera
 }
 
+*/
+//*Not required but keeping in handy. 
+
+
 //Tabs for Youtube Video Templates
 
 function openCity(evt, name) {
@@ -53,3 +56,7 @@ function openCity(evt, name) {
 // Get the element with id="pc" and click on it
 document.getElementById("pc").click();
 
+
+//Date display on index.html
+var datedisplay = new Date();
+document.getElementById("ddisplay").innerHTML = datedisplay.toDateString();
