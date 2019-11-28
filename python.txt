@@ -17,7 +17,7 @@ for it in range(b):
     var=var1=0
     l=l1=[]
     for i in range(a):
-        if x[i] not in z[it]:
+        if x[i].upper() not in z[it].upper():
             var+=1
             for j in range(var):
                 l.append(var)
@@ -43,7 +43,7 @@ for it in range(b):
     var1=var11=0
     l1=l11=[]
     for i in range(len(z[it])):
-        if z[it][i] not in x:
+        if z[it][i].upper() not in x.upper():
             var1+=1
             for j in range(var1):
                 l1.append(var1)
