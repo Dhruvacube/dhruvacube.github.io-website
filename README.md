@@ -10,6 +10,3 @@ This is my website. I have created this website just for fun and also to get pop
 **Owner and Hoster of this website**
 
 - Owner: Dhruva Shaw
-- Hoster: GitHub
-
-
