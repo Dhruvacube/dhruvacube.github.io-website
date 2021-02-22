@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 @import url("font-awesome.min.css");
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300italic,400,400italic,600,600italic,700,700italic");
 
@@ -3126,3 +3127,360 @@
 				}
 
 	}
+=======
+@charset "UTF-8";
+/*
+  Made By Dhruva Shaw
+  All Rights Reserved
+  It shall not be copied without prior permission of the owner of the website.  
+*/
+
+
+
+
+
+html {
+       font-family: sans-serif;
+       line-height: 1.15;
+       -webkit-text-size-adjust: 100%;
+       -ms-text-size-adjust: 100%;
+       -ms-overflow-style: scrollbar;
+       -webkit-tap-highlight-color: transparent;
+     }
+
+@-ms-viewport {
+                width: device-width;
+              }
+
+
+/*Custom Scrollbar*/
+/* width */
+::-webkit-scrollbar {
+                      width: 20px;
+                    }
+/* Track */
+::-webkit-scrollbar-track {
+                            box-shadow: inset 0 0 5px grey; 
+                            border-radius: 10px;
+                          }
+/* Handle */
+::-webkit-scrollbar-thumb {
+                            background: black; 
+                            border-radius: 10px;
+                          }
+/*Ends*/
+
+
+
+/*___________________________________*/
+
+
+
+
+
+
+* {
+    box-sizing: border-box;
+	-webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+	}
+
+body {
+    font-family: Arial;
+    padding: 10px;
+    background: #f1f1f1;
+	box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);`
+	}
+
+/* Header/Blog Title */
+.header {
+         padding: 30px;
+         text-align: center;
+         background: white;
+	     box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+        }
+
+.header h1 {
+            font-size: 50px;
+           }
+
+/* Style the top navigation bar */
+.topnav {
+         overflow: hidden;
+         background-color: #333;
+	     box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+        }
+
+/* Style the top navigation links */
+.topnav a {
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+/* Change top navigation links color on hover */
+.topnav a:hover {
+               background-color: #ddd;
+                color: black;
+				font-weight: bold;
+}
+
+/* Create two unequal columns that floats next to each other */
+/* Left column */
+.leftcolumn {   
+    float: left;
+    width: 75%;
+}
+
+/* Right column */
+.rightcolumn {
+    float: left;
+    width: 25%;
+    background-color: #f1f1f1;
+    padding-left: 20px;
+}
+
+/* Fake image */
+.img {
+    width: 100%;
+    padding: 20px;
+}
+
+/* Add a card effect for articles */
+.card {
+    background-color: white;
+    padding: 20px;
+    margin-top: 20px;
+	box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+
+/* Clear floats after the columns */
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+/* Footer */
+.footer {
+    padding: 20px;
+    text-align: center;
+    background: #ddd;
+    margin-top: 20px;
+    overflow: auto;
+	box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+
+.footerleft { 
+             float: left;
+			}
+.footerright { 
+              float: right; 
+			 }
+/* Responsive layout - when the screen is less than 800px wide, make the two columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 800px) {
+                                      .leftcolumn, .rightcolumn {   
+                                                                  width: 100%;
+                                                                   padding: 0;
+                                                                }
+                                     }
+
+/* Responsive layout - when the screen is less than 800px wide, make the navigation links stack on top of each other instead of next to each other */
+@media screen and (max-width: 800px) {
+                                       .topnav a {
+                                                   float: none;
+                                                   width: 100%;
+                                                 }
+                                     }
+
+/*Features Chat*/
+/* Chat containers */
+.containerchat {
+                border: 2px solid #dedede;
+                background-color: #f1f1f1;
+                border-radius: 5px;
+                padding: 10px;
+                margin: 10px 0;
+	            box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+				font-weight: bold;
+               }
+
+/* Darker chat container */
+.darkerchat {
+             border-color: #ccc;
+             background-color: #ddd;
+             border-radius: 5px;
+             padding: 10px;
+             margin: 10px 0;
+	         box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+			 font-weight: bold;
+            }
+
+/* Clear floats */
+.containerchat::after {
+                       content: "";
+                       clear: both;
+                       display: table;
+                      }
+ 
+
+/*Breadcrumbs Navigation*/
+/* Style the list */
+ul.breadcrumb {
+                padding: 10px 16px;
+                list-style: none;
+                background-color: #eee;
+              }
+
+/* Display list items side by side */
+ul.breadcrumb li {
+                  display: inline;
+                  font-size: 18px;
+                  }
+
+/* Add a slash symbol (/) before/behind each list item */
+ul.breadcrumb li+li:before {
+                            padding: 8px;
+                            color: black;
+                            content: "/\00a0";
+                           }
+
+/* Add a color to all links inside the list */
+ul.breadcrumb li a {
+                    color: #0275d8;
+                    text-decoration: none;
+                   }
+
+/* Add a color on mouse-over */
+ul.breadcrumb li a:hover {
+                          color: #01447e;
+                          text-decoration: underline;
+                         }
+
+/*Tab Content for youtube video templates */
+/* Style the tab */
+.tab {
+      overflow: hidden;
+      border: 1px solid #ccc;
+      background-color: #f1f1f1;
+	  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+     }
+
+/* Style the buttons inside the tab */
+.tab button {
+             background-color: inherit;
+             float: left;
+             border: none;
+             outline: none;
+             cursor: pointer;
+             padding: 14px 16px;
+             transition: 0.3s;
+             font-size: 17px;
+	         box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+            }
+
+/* Change background color of buttons on hover */
+.tab button:hover {
+                    background-color: #ddd;
+                  }
+
+/* Create an active/current tablink class */
+.tab button.active {
+                     background-color: #ccc;
+                   }
+
+/* Style the tab content */
+.tabcontent {
+             display: none;
+	         box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+
+            }
+
+tabcontent {
+            animation: fadeEffect 1s; /* Fading effect takes 1 second */
+           }
+
+/* Go from zero to full opacity */
+@keyframes fadeEffect {
+                        from {
+							  opacity: 0;
+							 }
+                       to {
+						   opacity: 1;
+						  }
+                      }
+
+/* marquee */
+marquee{ 
+         font-size: 40px;
+         border:2px solid Black ;
+         border-radius: 5px;
+         color: rgb(0, 0, 0);
+		 box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+        }
+
+
+
+/* Style all font awesome icons */
+.fa { 
+     margin: 5px 2px;
+     font-size: 20px;
+     width: 25px;
+     text-decoration: none;
+     padding: 15px 35px 15px 15px;
+     border-radius: 50%;
+	 box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    }
+/* Add a hover effect if you want */
+.fa:hover {
+    opacity: 0.7;
+}
+
+/* Set a specific color for each brand */
+
+.fa-instagram {
+               background: #125688;
+               color: white;
+              }
+
+.fa-youtube {
+             background: #bb0000;
+             color: white;
+            }
+
+.fa-github {
+        	background: rgb(35, 29, 19); color: white; 
+		   }
+
+/*Download buttons */
+/* Style buttons */
+.btn {
+      background-color: DodgerBlue;
+      border: none;
+      color: white;
+      padding: 5px 24px;
+      font-size: 10px;
+      cursor: pointer;
+      font-size: 20px;
+      border-radius: 5%;
+      right: 100px ;
+      box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+     }
+
+/* Darker background on mouse-over */
+.btn:hover {
+             background-color: RoyalBlue;
+           }
+ 
+.otherprogrames { 
+                 text-decoration: none; 
+				}
+.programcard {
+	          box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+			 }
+			 
+.programcard h2,a,div,button,strong { left:5px;}
+>>>>>>> 3c56533d3f289e5f7cc60291199be4c6e3cd249d
