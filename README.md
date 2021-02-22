@@ -27,6 +27,9 @@
 * [Instagram](https://www.instagram.com/dhruva_shaw_/)
 * [Youtube](https://www.youtube.com/c/DhruvaShaw)
 * [Github](https://github.com/Dhruvacube)
+* [Speedsloving.com](https://www.speedsolving.com/members/dhruva-shaw.36635/)
+* [Imgur](https://imgur.com/user/DhruvaShaw)
+* [WCA](https://www.worldcubeassociation.org/persons/2016SHAW01)
 
 ***
 
