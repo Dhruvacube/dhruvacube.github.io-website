@@ -2,6 +2,7 @@
 ###### A student busy with studies!
 
 ![Minato Namikaze aka Yondaime Hokage](https://media.discordapp.net/attachments/777918705098686465/813083579223506954/image0.jpg?width=1020&height=388 "Minato Namikaze aka Yondaime Hokage")
+
 ***
 
 ### Discord Bot (Minato Namikaze)
@@ -20,7 +21,7 @@
 ***
 
 ### Social Links
-* [Website](https://dhruvacuber.pythonanywhere.com/)
+* [Website Official](https://dhruvacuber.pythonanywhere.com/)
 * [dev.to](https://dev.to/dhruvacube)
 * [Scratch](https://scratch.mit.edu/users/Dhruvacuber/)
 * [Instagram](https://www.instagram.com/dhruva_shaw_/)
