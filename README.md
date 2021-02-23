@@ -15,7 +15,7 @@
 
 ***
 
-### (Minato Namikaze Bot Docs
+### Minato Namikaze Bot Docs
 * [Docs]([website]/[reponame])
 
 ***
@@ -25,6 +25,10 @@
 * [Disboard](https://disboard.org/server/747480356625711204)
 * [Discord Bot List](https://discordbotlist.com/servers/konohagakure)
 
+
+***
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dhruvacube&layout=compact) &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruvacube&layout=compact&langs_count=8)
 
 ***
 
