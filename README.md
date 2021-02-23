@@ -1,3 +1,5 @@
+[website]: https://dhruvacube.github.io/
+[reponame]: yondaime-hokage
 # Dhruva Shaw
 ###### A student busy with studies!
 
@@ -9,6 +11,12 @@
 * [Support Server](https://discord.gg/g9zQbjE73K)
 * [TopGG](https://top.gg/bot/779559821162315787)
 * [Discord Bot List](https://discordbotlist.com/bots/minato-namikaze)
+* [Discord Bots](https://discord.bots.gg/bots/779559821162315787)
+
+***
+
+### (Minato Namikaze Bot Docs
+* [Docs]([website]/[reponame])
 
 ***
 
