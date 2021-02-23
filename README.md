@@ -1,5 +1,3 @@
-[website]: https://dhruvacube.github.io/
-[reponame]: yondaime-hokage
 # Dhruva Shaw
 ###### A student busy with studies!
 
@@ -16,7 +14,7 @@
 ***
 
 ### Minato Namikaze Bot Docs
-* [Docs]([website]/[reponame])
+* [Docs](https://dhruvacube.github.io/yondaime-hokage/)
 
 ***
 
