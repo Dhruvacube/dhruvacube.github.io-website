@@ -1,20 +1,28 @@
 # Dhruva Shaw
 ###### A student busy with studies!
 
-![Minato Namikaze aka Yondaime Hokage](https://media.discordapp.net/attachments/777918705098686465/813083579223506954/image0.jpg?width=1020&height=388 "Minato Namikaze aka Yondaime Hokage")
+![Sai Friendship](https://i.imgur.com/yCdso6y.jpg "Sai Friendship")
 
 ***
-
 ### Discord Bot (Minato Namikaze)
+
+[![Discord Bots](https://top.gg/api/widget/status/779559821162315787.svg)](https://top.gg/bot/779559821162315787) [![Discord Bots](https://botlist.space/bot/779559821162315787/badge?property=prefix&style=plastic&color=informational)](https://top.gg/bot/779559821162315787)
+
+
 * [Support Server](https://discord.gg/g9zQbjE73K)
 * [TopGG](https://top.gg/bot/779559821162315787)
 * [Discord Bot List](https://discordbotlist.com/bots/minato-namikaze)
-* [Discord Bots](https://discord.bots.gg/bots/779559821162315787)
+* [BOTLIST](https://botlist.space/bot/779559821162315787)
+* [BOTS FOR DISCORD](https://botsfordiscord.com/bot/779559821162315787)
+* [DISCORD BOATS](https://discord.boats/bot/779559821162315787)
+* [DISCORD LABS](https://bots.discordlabs.org/bot/779559821162315787)
 
 ***
 
 ### Minato Namikaze Bot Docs
 * [Docs](https://dhruvacube.github.io/yondaime-hokage/)
+* [Commands List](https://dhruvacube.github.io/yondaime-hokage/help)
+* [Privacy Policy](https://dhruvacube.github.io/yondaime-hokage/privacy_policy)
 
 ***
 
@@ -22,11 +30,10 @@
 * [TopGG](https://top.gg/servers/747480356625711204)
 * [Disboard](https://disboard.org/server/747480356625711204)
 * [Discord Bot List](https://discordbotlist.com/servers/konohagakure)
-
+* [DIscord Extreme List](https://discordextremelist.xyz/en-US/servers/747480356625711204)
 
 ***
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dhruvacube&layout=compact) &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruvacube&layout=compact&langs_count=8)
+[Dhruva Shaw GitHub stats](https://github-readme-stats.vercel.app/api?username=Dhruvacube&layout=compact&count_private=true&show_icons=true) &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruvacube&layout=compact&langs_count=8)
 
 ***
 
